@@ -1,3 +1,4 @@
+#magicalmemo
 A simple, lightweight, and practical editor enabling plain text creation and editing, along with local loading and saving, directly on the web.
 
 Described on one page. Operates solely with the (webmemo.html) file.
